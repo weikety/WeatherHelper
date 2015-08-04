@@ -9,6 +9,3 @@ C#天气操作类
 
 实例网站 http://www.hdzhongguo.com
 
-
-配置步骤：
-
